@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './Ap.css';
+import './App.css';
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          테스트 수정사항입니다.
         </a>
       </header>
     </div>
